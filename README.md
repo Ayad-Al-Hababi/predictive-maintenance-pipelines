@@ -52,7 +52,8 @@ The dataset consists of simulated oil and gas pipeline operational data represen
 
 ### Data Source
 
-The dataset used in this project was obtained from Kaggle (Predictive maintenance oil and gas pipeline data). The original data was further cleaned, processed, and adapted for this predictive maintenance task.
+- The dataset used in this project was obtained from Kaggle (Predictive maintenance oil and gas pipeline data). The original data was further cleaned, processed, and adapted for this
+predictive maintenance task.
 ---
 
 ## ⚙️ Methodology
@@ -137,7 +138,15 @@ Feature importance analysis confirmed that influential predictors aligned with k
 ---
 ## 📁 Repository Structure
 
-predictive-maintenance-pipelines/ │ ├── README.md                # Project overview and documentation ├── requirements.txt         # Python dependencies ├── .gitignore               # Git ignore rules ├── LICENSE                  # MIT License │ ├── data/                    # Dataset files (from Kaggle, cleaned) │   └── pipeline_data.csv │ ├── notebooks/               # Jupyter notebooks │   └── predictive_maintenance.ipynb │ ├── results/                 # Model outputs and visualizations │   ├── confusion_matrix.png │   └── feature_importance.png │ └── report/                  # Project report └── Predictive_Maintenance_Report.pdf
+-  predictive-maintenance-pipelines/ │ ├── README.md                
+-  Project overview and documentation ├── requirements.txt         
+-  Python dependencies ├── .gitignore               
+-  Git ignore rules ├── LICENSE                  
+-  MIT License │ ├── data/                    
+-  Dataset files (from Kaggle, cleaned) │   └── pipeline_data.csv │ ├── notebooks/               
+-  Jupyter notebooks │   └── predictive_maintenance.ipynb │ ├── results/                 
+-  Model outputs and visualizations │   ├── confusion_matrix.png │   └── feature_importance.png │ └── report/                  
+-  Project report └── Predictive_Maintenance_Report.pdf
 ---
 ## 👤 Author
 
