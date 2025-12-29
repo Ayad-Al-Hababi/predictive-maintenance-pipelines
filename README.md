@@ -49,6 +49,10 @@ The dataset consists of simulated oil and gas pipeline operational data represen
 
 ⚠️ Variables directly defining pipeline condition (e.g., thickness loss, material loss percentage) were **intentionally excluded** to prevent data leakage.
 
+
+### Data Source
+
+The dataset used in this project was obtained from Kaggle (Predictive maintenance oil and gas pipeline data). The original data was further cleaned, processed, and adapted for this predictive maintenance task.
 ---
 
 ## ⚙️ Methodology
