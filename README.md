@@ -135,7 +135,10 @@ Feature importance analysis confirmed that influential predictors aligned with k
 - Deployment within asset management or monitoring systems  
 
 ---
+## 📁 Repository Structure
 
+predictive-maintenance-pipelines/ │ ├── README.md                # Project overview and documentation ├── requirements.txt         # Python dependencies ├── .gitignore               # Git ignore rules ├── LICENSE                  # MIT License │ ├── data/                    # Dataset files (from Kaggle, cleaned) │   └── pipeline_data.csv │ ├── notebooks/               # Jupyter notebooks │   └── predictive_maintenance.ipynb │ ├── results/                 # Model outputs and visualizations │   ├── confusion_matrix.png │   └── feature_importance.png │ └── report/                  # Project report └── Predictive_Maintenance_Report.pdf
+---
 ## 👤 Author
 
 **Ayad Ahmed Al-Hababi**
@@ -147,5 +150,5 @@ This project was developed as a portfolio demonstration of applied machine learn
 ## 📜 License
 
 This project is licensed under the **MIT License**.
-## 📁 Repository Structure
+
 
